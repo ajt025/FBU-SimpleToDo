@@ -7,7 +7,7 @@ A simple to-do list to add and remove tasks. Developed for Android.
 
 Submitted by: **SimpleToDo**
 
-Time spent: **4** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## User Stories
 
